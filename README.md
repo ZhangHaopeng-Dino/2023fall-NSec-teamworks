@@ -1,10 +1,10 @@
 # 2023Fall-NSec-teamworks
 Student teamwork summary repository for USTC NSEC Compiler H lecture in fall 2023.
 
-## Contributing
-Each team should commit one PR into this repository to include their own project introduction into this repository. The introduction should be a markdown file named <your-team-no.>-<your-proj-name>.md in the root directory of this repository. The team number should always be two digits. The project name should comprise lowercase characters, numbers, and slashes.
+Here is 2023A Compiler Course Final assignment (Group 4)
 
-For example, if team 0 decides to work on a project named Bla Bla, then they should commit a PR with commits on file 00-bla-bla.md, which contains a brief introduction to their project and links to their GitHub repositories corresponding to their project.
+Our members are Zhengyang and ZhangHaopeng
 
-**Please refer to**
-- [2017fall-student-teamworks](https://github.com/ustc-compiler/2017fall-student-teamworks)
+Url to the Repo [Report](https://github.com/ZhangHaopeng-Dino/2023fall-NSec-teamworks/blob/G4-ZhengYang-ZhangHaopeng/report.md)
+
+Url to the Respository [Report](https://github.com/ZhangHaopeng-Dino/2023fall-NSec-teamworks/tree/G4-ZhengYang-ZhangHaopeng)
